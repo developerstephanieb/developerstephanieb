@@ -6,8 +6,8 @@
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 <!--![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)-->
-<!--![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)-->
 
 **Infrastructure & Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
